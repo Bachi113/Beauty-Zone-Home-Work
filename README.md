@@ -1,4 +1,4 @@
-[Homework 1](https://bachi113.github.io/Beauty-Zone-Home-Work/)
+[Homework 1]([https://bachi113.github.io/Beauty-Zone-Home-Work/](https://bachi113.github.io/Beauty-Zone-Home-Work/Homework-1/beauty-zone/)
 [Homework 2](https://bachi113.github.io/Beauty-Zone-Home-Work/)
 [Homework 3](https://bachi113.github.io/Beauty-Zone-Home-Work/)
 [Homework 4](https://bachi113.github.io/Beauty-Zone-Home-Work/)
